@@ -9,3 +9,6 @@ html{
   width: 300px;
   display: inline-block;
 }
+.verticalLine {
+  border-left: thick solid #ff0000;
+}
