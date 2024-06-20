@@ -6,12 +6,10 @@ html{
 }
 .top{
   padding: 15px;
-  width: 300px;
+  width: 600px;
   display: inline-block;
   background:DimGray;
 }
-#verticalLine {
-  width: 4px;
-  display: inline-block;
-  background: white;
+.links{
+  width: 100px;
 }
