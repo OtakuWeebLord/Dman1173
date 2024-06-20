@@ -13,4 +13,5 @@ html{
   border-left: thick solid #ffffff;
   width: 4px;
   display: inline-block;
+  background: white;
 }
