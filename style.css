@@ -5,14 +5,13 @@ html{
   background:black;
 }
 .top{
-  padding: 15px;
   display: inline-block;
   background:DimGray;
   height:40px;
   width:100%;
 }
 .links{
-  width: 100px;
+  max-width: 100px;
   display: inline-block;
   text-align: center;
 }
