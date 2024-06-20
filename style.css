@@ -8,6 +8,7 @@ html{
   padding: 15px;
   width: 300px;
   display: inline-block;
+  background:DimGray;
 }
 #verticalLine {
   width: 4px;
