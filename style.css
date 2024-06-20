@@ -11,6 +11,6 @@ html{
 }
 #verticalLine {
   border-left: thick solid #ffffff;
-  width: 20px;
+  width: 4px;
   display: inline-block;
 }
