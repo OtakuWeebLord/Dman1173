@@ -9,9 +9,10 @@ html{
   width: 600px;
   display: inline-block;
   background:DimGray;
+  height:40px;
 }
 .links{
   width: 100px;
   display: inline-block;
-  height:40px;
+  
 }
