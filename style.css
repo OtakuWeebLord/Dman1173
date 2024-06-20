@@ -9,7 +9,7 @@ html{
   width: 300px;
   display: inline-block;
 }
-.verticalLine {
+#verticalLine {
   border-left: thick solid #ffffff;
   width: 2px;
   display: inline-block;
